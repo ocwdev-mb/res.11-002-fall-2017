@@ -1,0 +1,63 @@
+leftnav:
+- identifier: af51e631-568c-11bc-fd2f-7001a2c48de5
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 10
+- identifier: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
+  name: Videos
+  pageRef: /pages/videos/
+  weight: 20
+- identifier: 37775d8c-9608-b828-6036-a649cf3d705f
+  name: Appropriate Technology as Intentionally Disruptive Responsibility
+  pageRef: /pages/videos/appropriate-technology
+  parent: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
+  weight: 30
+- identifier: 65b19c11-9bbb-1891-4229-baa8cf9539f0
+  name: Intentional Public Disruptions, Art, and Social Responsibility
+  pageRef: /pages/videos/public-disruptions
+  parent: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
+  weight: 40
+- identifier: c0eca78a-8631-6d8e-c285-bef9e37e0109
+  name: Community, Water, Pedagogy, and Learning
+  pageRef: /pages/videos/community-water
+  parent: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
+  weight: 50
+- identifier: 803b8b8a-fa8f-48d1-c2a1-e85d14e6cc91
+  name: Socially Engaged Practice Enabling Difficult Conversations I
+  pageRef: /pages/videos/socially-engaged
+  parent: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
+  weight: 60
+- identifier: f551e404-071b-7e1c-aa06-fd2c323ae30d
+  name: Socially Engaged Practice Enabling Difficult Conversations II
+  pageRef: /pages/videos/difficult-conversations
+  parent: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
+  weight: 70
+- identifier: 113204d7-e309-2c63-1672-b1f71594c2da
+  name: Reflecting and Disrupting
+  pageRef: /pages/videos/reflecting-and-disrupting
+  parent: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
+  weight: 80
+- identifier: f67ed85f-6399-759e-c9b4-99c7603584fc
+  name: Educational Experience as Intentionally Disruptive Pedagogy
+  pageRef: /pages/videos/educational-experience
+  parent: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
+  weight: 90
+- identifier: b5a3e82c-50f8-bcce-9463-2d8978513b6c
+  name: Art Education as Engagement with the World
+  pageRef: /pages/videos/art-education
+  parent: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
+  weight: 100
+- identifier: 2789883e-aa87-a524-74e0-692ce409e0fe
+  name: Conventional Practice and Conceptual Explorations
+  pageRef: /pages/videos/conventional-practice
+  parent: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
+  weight: 110
+- identifier: ef9745b5-e682-1999-800f-db73e7877dcb
+  name: Performing Explorations of Context and Meaning Making
+  pageRef: /pages/videos/performing-explorations
+  parent: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
+  weight: 120
+- identifier: 2823c296-cb3c-47e4-0f36-45bc71447cf4
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 130
